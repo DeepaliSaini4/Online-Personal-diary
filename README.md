@@ -22,11 +22,11 @@ Welcome to **Your Personal Diary**, a beautiful and intuitive platform designed 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/YourPersonalDiary.git
+   git clone https://github.com/DeepaliSaini4/Online-Personal-diary.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd YourPersonalDiary
+   cd Online-Personal-diary
    ```
 3. **Open the `index.html` file** in your web browser to start using your personal diary!
 
